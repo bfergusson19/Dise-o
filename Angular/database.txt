@@ -1,0 +1,15 @@
+create database coord_db;
+use coord_db;
+
+create table coord(
+	id int(11) not null auto_increment primary key,
+   	latitud varchar(180),
+    	longitud varchar(180),
+    	fecha varchar(180)
+    
+
+);
+
+
+diseno
+diseno10
